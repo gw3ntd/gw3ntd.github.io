@@ -24,10 +24,9 @@ repository               : "gw3ntd/gw3ntd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Gwyneth (Gwen) Horzempa"
+  name             : "Gwen Horzempa"
   pronouns         : "she/her"  
   bio              : "Current Undergraduate Data Science Student | Aspiring Public Policy Researcher"
-  location         : "Earth"
   employer         : "West Liberty University"
   uri              : # URL
   email            : "ghorzempa@westliberty.edu" 
@@ -35,13 +34,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
