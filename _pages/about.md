@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gwen Horzempa | Data Science Student | Future Public Policy Researcher"
+title: "Gwen Horzempa -> Data Science Student -> Future Public Policy Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,20 +11,20 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-#### Research Interests
+### Research Interests
 - Public policy
 - Gun violence
 - Human trafficking
 - Causal inference
 
-#### Featured Research
+### Featured Research
 - UCR REU
 - SMU REU
 - OG Gun Violence project
 
-#### Current Experience
+### Current Experience
 - FS Research
 - SMU Data Science job
 
-#### Outside of Data Science
+### Outside of Data Science
 - Pictures of me and my life maybe
